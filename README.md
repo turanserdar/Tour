@@ -11,9 +11,13 @@ Project Overview
 The FCoder Travel Website is designed to provide users with easy access to personalized trip planning. The website consists of four main sections:
 
 Main Page: Highlighting the travel services with a sleek and interactive design.
+
 About Us: Introducing the company and team behind the travel services.
+
 Services: Detailing the various travel packages and custom trip planning options.
+
 Contact: A simple way for users to get in touch and schedule appointments for travel planning.
+
 # Technologies Used
 HTML
 CSS
