@@ -1,8 +1,8 @@
 
-** FCoder Travel Website **
+# FCoder Travel Website 
 Welcome to the FCoder Travel Website repository! This project includes a travel website created using HTML and CSS, designed to help users plan their trips seamlessly.
 
- ** Table of Contents ** 
+ # Table of Contents  
 Main Page
 About Us
 Services
@@ -14,31 +14,31 @@ Main Page: Highlighting the travel services with a sleek and interactive design.
 About Us: Introducing the company and team behind the travel services.
 Services: Detailing the various travel packages and custom trip planning options.
 Contact: A simple way for users to get in touch and schedule appointments for travel planning.
-Technologies Used
+# Technologies Used
 HTML
 CSS
 Responsive Design Techniques
 Installation
 To set up the project locally, follow these steps:
 
-Clone the repository:
+# Clone the repository:
 
 bash
-Kodu kopyala
+Copy code
 git clone https://github.com/turanserdar/your-repository.git
 Navigate to the project directory:
 
 bash
-Kodu kopyala
+Copy code
 cd Travel-Website
 Open the index.html file in your preferred web browser.
 
-Usage
+# Usage
 You can customize the HTML and CSS files to create a personalized travel website that meets your needs. This project is designed to be flexible and easy to adapt for any travel business.
 
-Contributing
+# Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request.
 
-Contact
+# Contact
 For any inquiries or feedback, please reach out:
 
