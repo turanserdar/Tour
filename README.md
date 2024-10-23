@@ -1,3 +1,6 @@
+
+Tabii, koyu yazılar Markdown formatında doğru görünmesi için aşağıdaki gibi düzenlenmiştir. Fontlarla uyumlu olacak şekilde başlıkları ve vurgulanması gereken yerleri koyu yazdım:
+
 FCoder Travel Website
 Welcome to the FCoder Travel Website repository! This project includes a travel website created using HTML and CSS, designed to help users plan their trips seamlessly.
 
@@ -41,4 +44,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 Contact
 For any inquiries or feedback, please reach out:
 
-Email: turanserdar@outlook.com.tr
