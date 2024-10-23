@@ -46,3 +46,5 @@ Contributions are welcome! If you would like to contribute to this project, plea
 # Contact
 For any inquiries or feedback, please reach out:
 
+Email: turanserdar@outlook.com.tr
+
